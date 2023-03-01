@@ -11,8 +11,9 @@
     "url": "git+https://github.com/JeissonR115/course-ECMAScript.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jeisson Rodriguez",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/JeissonR115/course-ECMAScript/issues"
   },
